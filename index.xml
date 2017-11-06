@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>makethemo&#39;s blog</title>
+    <link>https://makethemo.github.io/</link>
+    <description>Recent content on makethemo&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Tue, 07 Nov 2017 03:52:18 +0900</lastBuildDate>
+    
+	<atom:link href="https://makethemo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://makethemo.github.io/about/</link>
+      <pubDate>Tue, 07 Nov 2017 03:52:18 +0900</pubDate>
+      
+      <guid>https://makethemo.github.io/about/</guid>
+      <description>Hugo로 블로그 개발 진행 중입니다.</description>
+    </item>
+    
+  </channel>
+</rss>
